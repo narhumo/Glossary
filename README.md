@@ -2,6 +2,8 @@
 
 Here, we collect definitions of important concepts
 
+**Agent**: An AI Agent is semi-autonomous software that uses an LLM (Large Language Model) to mimic human decision-making and perform tasks.
+
 **Ablation**: A technique for evaluating the importance of a feature or component by temporarily removing it from a model. Can also be used to determine the importance of a subsystem of a larger model. 
 
 **Activation Function**: A user-implemented function that provides a nonlinear learning aspect of an algorithm between inputs and outputs.
@@ -113,4 +115,5 @@ Here, we collect definitions of important concepts
 **Underfitting:** Occurs when a machine learning model is too simple to capture the underlying patterns in the training data, resulting in poor performance on both the training and testing data.
 
 **Unstructured Data**: data that are not organized in a specific format and require more complex methods for automated interpretation. Examples include images, papers, books, audio files etc.
+
 **Unsupervised Learning**: a category of machine learning where models are trained using unlabeled data to make connections between that data.
